@@ -19,8 +19,8 @@ This is a NestJS application that connects to a PostgreSQL database and implemen
 ### 1. Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd nestjs-obikat-task
+git clone [<repository-url>](https://github.com/sarahtarek97/obikat-nestjs-app/edit/main/README.md)
+cd obikat-nestjs-app
 ```
 
 ### 2. Install Dependencies
@@ -31,16 +31,7 @@ npm install --legacy-peer-deps
 
 ### 3. Set Up Environment Variables
 
-Create a `.env` file in the root directory and add:
-
-```env
-DB_HOST=localhost
-DB_PORT=5432
-DB_USER=sraseroo
-DB_PASS=yourpassword
-DB_NAME=nestjs_obikat
-JWT_SECRET=your_jwt_secret
-```
+Create a `.env` file in the root directory
 
 ### 5. Start the Server
 

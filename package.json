@@ -1,0 +1,30 @@
+{
+  "name": "nestjs-obikat-task",
+  "version": "1.0.0",
+  "description": "NestJS task for Obikat",
+  "type": "commonjs",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "nest start",
+    "build": "nest build",
+    "format": "prettier --write 'src/**/*.ts'",
+    "start:dev": "nest start --watch"
+  },
+  "dependencies": {
+    "@nestjs/common": "^10.0.0",
+    "@nestjs/config": "^2.3.0",
+    "@nestjs/core": "^10.0.0",
+    "@nestjs/jwt": "^10.0.0",
+    "@nestjs/passport": "^10.0.0",
+    "@nestjs/platform-express": "^10.4.15",
+    "@nestjs/typeorm": "^10.0.0",
+    "@types/bcrypt": "^5.0.2",
+    "bcrypt": "^5.1.1",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pg": "^8.10.0",
+    "rxjs": "^7.8.1",
+    "typeorm": "^0.3.20"
+  }
+}

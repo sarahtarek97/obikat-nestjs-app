@@ -19,7 +19,7 @@ This is a NestJS application that connects to a PostgreSQL database and implemen
 ### 1. Clone the Repository
 
 ```sh
-git clone [<repository-url>](https://github.com/sarahtarek97/obikat-nestjs-app/edit/main/README.md)
+git clone (https://github.com/sarahtarek97/obikat-nestjs-app/edit/main/README.md)
 cd obikat-nestjs-app
 ```
 
